@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "Anatomy",
+    "topics": [
+      "Gross Anatomy",
+      "Osteology",
+      "Muscular System",
+      "Arthrology",
+      "Cardio Vascular System",
+      "Respiratory System",
+      "Digestive System",
+      "Genito-Urinary System",
+      "Endocrine System and Individual Endocrine Glands",
+      "Nervous System and its components",
+      "Special Sensory Organs",
+      "Lymphatic System",
+      "Surface Anatomy",
+      "Cross Sectional Anatomy",
+      "Microanatomy"
+    ],
+    "questions": 17
+  },
+  {
+    "subject": "Physiology",
+    "topics": [
+      "General Physiology",
+      "Nerve–Muscle",
+      "Blood",
+      "Respiratory System",
+      "Cardiovascular System",
+      "Gastrointestinal System",
+      "Nutrition",
+      "Environmental Physiology",
+      "Reproduction",
+      "Kidney",
+      "Neurophysiology",
+      "Sensory system",
+      "Motor system",
+      "Visceral and motivational system",
+      "EEG, sleep and higher nervous functions",
+      "Special Senses",
+      "Yoga"
+    ],
+    "questions": 17
+  },
+  {
+    "subject": "Biochemistry",
+    "topics": [
+      "Biological cell",
+      "Biomolecules",
+      "Enzymes",
+      "Metabolic pathways, their regulation and metabolic interrelationships",
+      "Carbohydrate metabolism",
+      "Metabolism of Amino acid",
+      "Lipid",
+      "TCA cycle and biological oxidation",
+      "Proteinoids",
+      "Regulation of the metabolic pathways",
+      "Food assimilation and nutrition",
+      "Hormones",
+      "Molecular Biology",
+      "pH, Buffer, physiological buffer systems",
+      "Immunology",
+      "Environmental biochemistry",
+      "Cancer and cancer makers"
+    ],
+    "questions": 16
+  },
+  {
+    "subject": "Pathology",
+    "topics": [
+      "Introduction to Pathology",
+      "Cell Injury",
+      "Amyloidosis and Calcification",
+      "Inflammation and Repair",
+      "Circulatory Disturbances",
+      "Growth Disturbances and Neoplasia",
+      "Immunopathology",
+      "Infectious Diseases",
+      "Miscellaneous Disorders",
+      "Cardiovascular Pathology",
+      "Respiratory Pathology",
+      "Urinary Tract Pathology",
+      "Pathology of the Gastro-Intestinal Tract",
+      "Hematopathology",
+      "Liver and Biliary Tract Pathology",
+      "Lymphoreticular System",
+      "Reproductive System",
+      "Osteopathology",
+      "Endocrine Pathology",
+      "Neuropathology"
+    ],
+    "questions": 25
+  },
+  {
+    "subject": "Pharmacology",
+    "topics": [
+      "General Pharmacology",
+      "Autonomic nervous system & Peripheral nervous system",
+      "Central nervous system",
+      "Autacoids",
+      "Cardiovascular, Gastrointestinal, and respiratory system",
+      "Hormones",
+      "Chemotherapy",
+      "Immunomodulators",
+      "Drug therapy of glaucoma and cataract",
+      "Treatment of poisoning"
+    ],
+    "questions": 20
+  },
+  {
+    "subject": "Microbiology",
+    "topics": [
+      "Introduction to Microbiology",
+      "Bacteriology",
+      "Parasitology",
+      "Virology and Mycology",
+      "Bacterial Staining and Cultivation",
+      "Common Tests for Bacterial identification",
+      "Laboratory Diagnosis of Viral Infection",
+      "Common Laboratory Methods for Diagnosis of Fungal Infections",
+      "Collection of Transport of Samples",
+      "Host-Parasite relationship",
+      "Bacterial AND Viral Genetics",
+      "Immunity to infection",
+      "Immunodiagnostic",
+      "Vaccines",
+      "Sterilization and disinfection",
+      "Bacteriology of water and air",
+      "Microorganisms associated with gastrointestinal infections (Bacteria, parasites, viruses and fungi)",
+      "Gastrointestinal infections caused by parasites"
+    ],
+    "questions": 20
+  },
+  {
+    "subject": "Forensic Medicine",
+    "topics": [
+      "Forensic Pathology",
+      "Clinical forensic medicine",
+      "Medical Jurisprudence",
+      "Forensic Psychiatry",
+      "Forensic Sciences",
+      "General, clinical, environmental and analytical toxicology"
+    ],
+    "questions": 10
+  },
+  {
+    "subject": "Social and Preventive Medicine",
+    "topics": [
+      "History of Public Health",
+      "Concepts in Public Health",
+      "Epidemiology and Research Methodology",
+      "Epidemiology of Specific Diseases",
+      "Entomology",
+      "Biostatistics",
+      "Health planning and Public Health Administration",
+      "Nutrition",
+      "Environmental Health",
+      "Demography",
+      "Mental Health and Education Technology",
+      "Environmental Sanitation",
+      "Demography and Family Planning",
+      "Mental Health",
+      "Recent Advancements in Public Health and Miscellaneous topics",
+      "Sociology",
+      "School, Occupational, Urban Health"
+    ],
+    "questions": 25
+  },
+  {
+    "subject": "Psychiatry",
+    "topics": [
+      "Behavioral Sciences",
+      "Cognitive process and memory",
+      "Thinking and problem solving",
+      "Intelligence: General concepts and techniques for assessment",
+      "Personality (Principles of Personality development) and objective testing of Personality",
+      "Introduction and classification of Psychiatric disorder",
+      "Aetiology of Psychiatric disorders",
+      "Drug and Alcohol dependence",
+      "Personality disorders",
+      "Counselling and psychological therapies",
+      "Psychological testing"
+    ],
+    "questions": 10
+  },
+  {
+    "subject": "Obstetrics and Gynecology",
+    "topics": [
+      "Basic Sciences-Normal & abnormal development, structure and function of female & male urogenital systems",
+      "Endocrinology of reproductive system",
+      "Gametogenesis, fertilization",
+      "Role of hormones in Obstetrics & Gynecology",
+      "Humoral and cellular immunology in Obstetrics & Gynecology",
+      "Physiology of normal pregnancy, diagnosis of pregnancy",
+      "Anemia in Pregnancy",
+      "Carcinoma Cervix, epidemiology, staging diagnostic procedure, treatment",
+      "Menopause and related problems",
+      "Contraception",
+      "Neonatology and Recent Advances"
+    ],
+    "questions": 30
+  },
+  {
+    "subject": "Pediatrics",
+    "topics": [
+      "Growth and development",
+      "Nutrition",
+      "Immunization",
+      "Infectious diseases",
+      "Hematology",
+      "Respiratory system",
+      "Gastro Intestinal Tract",
+      "Central Nervous System",
+      "Cardiovascular system",
+      "Genito-Urinary system",
+      "Neonatology",
+      "Pediatrics Emergencies",
+      "Fluid-Electrolyte",
+      "Genetics",
+      "Behavioral Problems",
+      "Pediatrics Surgical Problems",
+      "Therapeutics"
+    ],
+    "questions": 10
+  },
+  {
+    "subject": "ENT",
+    "topics": [
+      "Comprehensive diagnosis of common Ear, Nose and Throat (ENT) diseases including the emergencies and malignant neoplasm of the head and neck",
+      "Use of head mirror, otoscope and indirect laryngoscopy",
+      "Possess knowledge of various ENT rehabilitative programmes"
+    ],
+    "questions": 10
+  },
+  {
+    "subject": "Ophthalmology",
+    "topics": [
+      "Anatomy and development of eye",
+      "Clinical methods in ophthalmology",
+      "Optics and refraction",
+      "Disease of conjunctiva",
+      "Disease of the cornea",
+      "Disease of the sclera",
+      "Disease of the Uveal tract, lens",
+      "Glaucoma, vitreous, Retina",
+      "Vision and neuro-ophthalmology",
+      "Strabismus and Nystagmus",
+      "Disease of the lids",
+      "Disease of the lacrimal apparatus",
+      "Disease of the orbit",
+      "Ocular injuries",
+      "Basic principles of ocular therapy",
+      "Systemic ophthalmology",
+      "Community Ophthalmology",
+      "Miscellaneous Topics"
+    ],
+    "questions": 10
+  },
+  {
+    "subject": "Radiodiagnosis and Radiotherapy",
+    "topics": [
+      "Identify and diagnose all aspects of Emergency Room Radiology",
+      "Basic hazards and precautions in Radio-diagnostic practices",
+      "Basic need of various radio-diagnostic tools in medical practice",
+      "Learn about various imaging techniques, including isotopes C.T., Ultrasound, M.R.I. and D.S.A.",
+      "Know about radioactive isotopes and their physical properties",
+      "Identify symptoms and signs of various cancers and their steps of investigations and management"
+    ],
+    "questions": 0
+  },
+  {
+    "subject": "Surgery, ENT, Orthopedics, Anesthesia",
+    "topics": [
+      "Diagnose with reasonable accuracy all surgical illnesses including emergencies",
+      "Surgical knowledge of head, spine, chest abdominal and pelvic injury",
+      "Know about various surgical techniques such as venesection, tracheostomy and endotracheal intubation, circumcision, biopsy of surface tumors",
+      "Comprehensive diagnosis of common Ear, Nose and Throat (ENT) diseases including the emergencies and malignant neoplasm of the head and neck",
+      "Use of head mirror, otoscope and indirect laryngoscopy",
+      "Possess knowledge of various ENT rehabilitative programmes",
+      "Therapeutic Orthopedics",
+      "Knowledge on Splinting, Manual reduction of common fractures and dislocations",
+      "Recognize metabolic bone diseases",
+      "Acquire knowledge on pre-anesthetic checkup and pre-anesthetic medications",
+      "Simple general anesthetic procedures",
+      "Anesthetic records",
+      "Cardio-pulmonary brain resuscitation (C.P.B.R.) methods"
+    ],
+    "questions": 0
+  },
+  {
+    "subject": "Medicine Dermatology And Venereology",
+    "topics": [
+      "Common clinical disorders, drug therapeutics, diagnostic and investigative procedures",
+      "Disorders of Pigmentation",
+      "Allergic disorders",
+      "Papulosquamous disorders",
+      "Papule vesicular disorders",
+      "Leprosy",
+      "Fungal infections",
+      "Scabies",
+      "Pediculosis",
+      "STD",
+      "Malignant Skin disease"
+    ],
+    "questions": 0
+  }
+]
